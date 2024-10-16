@@ -1,0 +1,2 @@
+# Tooling-Website-deployment-automation-with-Continuous-Integration.-Introduction-to-Jenkins
+This repository contains scripts, configurations, and documentation to automate the deployment of a tooling website using Continuous Integration (CI) pipelines with Jenkins. The project focuses on streamlining the deployment process by integrating CI tools and best practices for consistent, reliable, and automated website delivery.
