@@ -32,7 +32,6 @@ sudo apt update
 ![image](https://github.com/user-attachments/assets/c6aeebfc-b06e-431a-9d02-901aa56fc066)
 
 
-
 ```
 sudo apt install default-jdk-headless
 ```
