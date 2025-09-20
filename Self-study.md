@@ -67,4 +67,5 @@ The updated architecture includes a Jenkins server, which acts as the central hu
 - **Testing:** Thoroughly test your deployment process to ensure it works as expected.
 - **Monitoring:** Monitor the health of your Jenkins server and the deployment process to identify and resolve any issues.
 
+
 This README provides a high-level overview of the project. For detailed instructions and specific configurations, refer to the Jenkins documentation, GitHub resources, and the project's code repository.
